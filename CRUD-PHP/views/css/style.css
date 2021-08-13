@@ -1,0 +1,23 @@
+.cabecero {
+    /* 
+    z-index: -10;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 100%;
+    */
+    color: #fff;
+    background: url(fondo.png), #0D1117;
+    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#0d1030), to(#08022b));
+    background: url(fondo.png), linear-gradient(to left, #0D1117, #0D1117)
+}
+
+body {
+    color: #fff;
+    background: url(fondo.png), #0D1117;
+    background: url(fondo.png), -webkit-gradient(linear, right top, left top, from(#0d1030), to(#08022b));
+    background: url(fondo.png), linear-gradient(to left, #0D1117, #0D1117)
+}
